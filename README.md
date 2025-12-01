@@ -127,8 +127,13 @@ Our solution enables retailers to answer critical questions such as:
 
 A fully interactive Tableau dashboard that retail managers can use daily to improve:
 
+
 •	Stock planning
+
 •	Demand forecasting
+
 •	Purchasing strategy
+
 •	Warehouse operations
+
 •	Store replenishment cycles

@@ -9,6 +9,7 @@ https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecastin
 
 This dataset contains over 180,000+ rows covering multi-store, multi-SKU daily inventory activity.
 It includes historical data on:
+
 •	Inventory levels
 •	Customer demand
 •	Sales performance

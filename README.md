@@ -28,7 +28,9 @@ It includes historical data on:
 
 Using this rich dataset, we created an end-to-end Tableau solution that delivers deep operational insights.
 
+
 What Our Dashboard Provides
+
 
 Our Tableau dashboard is designed as a complete decision-support system for retail inventory management.
 It contains multiple analytical components:
@@ -52,8 +54,10 @@ A top-level view of the most important daily/weekly inventory metrics:
 •	SKU Value – financial value of stock on hand
 
  Helps leadership quickly evaluate operational performance.
+ 
 
 2.	Inventory Trend & Stock Health
+
 
 •	Tracks how inventory changes over time:
 
@@ -66,8 +70,10 @@ A top-level view of the most important daily/weekly inventory metrics:
 •	Overstock vs understock patterns
 
  Ensures better planning of purchase orders and warehouse management.
+ 
 
 3.	Demand vs Inventory Gap Analysis
+
 
 Compares customer demand to actual available stock:
 
@@ -80,8 +86,10 @@ Compares customer demand to actual available stock:
 •	Effect of discounts and promotions
 
  Highlights mismatches that lead to stockouts or lost revenue.
+ 
 
 4.	Stockout Analysis Dashboard
+
 
 •	Identifies stockout patterns, including:
 
@@ -96,8 +104,10 @@ Compares customer demand to actual available stock:
 •	Stockout cost estimation
 
  Helps discover WHY stockouts happen and which products are most affected.
+ 
 
 5.	SKU Performance Dashboard
+
 
 •	Deep dive into each product’s performance:
 
@@ -113,7 +123,9 @@ Compares customer demand to actual available stock:
 
 Helps choose the right assortment, pricing, and promotion strategy.
 
+
 Calculated Fields Used in the Dashboard
+
 
 We created multiple custom calculated fields in Tableau, including:
 
@@ -145,7 +157,9 @@ We created multiple custom calculated fields in Tableau, including:
 
 These are stored in the tableau/calculated_fields folder.
 
+
 Project Purpose
+
 
 The objective of this project is to:
 
@@ -161,6 +175,7 @@ The objective of this project is to:
 
 •	Support data-driven inventory planning
 
+
 Our solution enables retailers to answer critical questions such as:
 
 •	Which SKUs are driving the highest losses due to stockouts?
@@ -173,7 +188,9 @@ Our solution enables retailers to answer critical questions such as:
 
 •	Where can inventory be optimized to reduce costs?
 
+
  Final Output
+ 
 
 A fully interactive Tableau dashboard that retail managers can use daily to improve:
 

@@ -103,7 +103,7 @@ We created multiple custom calculated fields in Tableau, including:
 
 These are stored in the tableau/calculated_fields folder.
 
-Overall Project Purpose
+Project Purpose
 
 The objective of this project is to:
 
